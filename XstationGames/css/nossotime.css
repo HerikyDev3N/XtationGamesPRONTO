@@ -1,0 +1,19 @@
+.volta{
+    text-align: center;
+}
+
+.card-img-top{
+    display: flex;
+    max-height: 50%;
+}
+
+a{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+
